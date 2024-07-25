@@ -1,8 +1,7 @@
 ## Wesley Martins 👋
 Sou um desenvolvedor apaixonado por desafios, motivado por desenvolver soluções de grande impacto aos clientes e a sociedade, adquirindo diversas experiências em variados projetos, utilizando diversas tecnologias, visando qualidade, organização, performance e agilidade. Busco estar em constante aprendizado.
 
-> Node_Javascript_Typescript_Golang_SQL_NoSQL_Docker
-
+[![My Skills](https://skillicons.dev/icons?i=git,js,ts,nodejs,golang,docker,linux,postgres,mysql,mongo,redis,kafka)](https://skillicons.dev)
 <!--
 **wesleysbmartins/wesleysbmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
