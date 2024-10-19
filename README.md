@@ -1,5 +1,5 @@
 ## Wesley Martins 👋
-Sou um desenvolvedor motivado por desafios e desenvolver soluções de grande impacto aos clientes e a sociedade, adquirindo diversas experiências em variados projetos, utilizando diversas tecnologias, visando qualidade, organização, performance e agilidade. Busco estar em constante aprendizado.
+Sou um desenvolvedor motivado por desafios e desenvolver soluções de grande impacto aos clientes e a sociedade, adquirindo diversas experiências em variados projetos, utilizando diversas tecnologias, visando qualidade, organização, performance e agilidade. Sempre aprendendo e evoluindo.
 
 <p align="center">
   <a href="https://skillicons.dev">
