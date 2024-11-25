@@ -3,7 +3,19 @@ Sou um desenvolvedor motivado por desafios e desenvolver soluções de grande im
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,windows,linux,js,ts,nodejs,npm,yarn,express,jest,golang,docker,postgres,mysql,mongo,redis,kafka,rabbitmq,jenkins,githubactions&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,windows,linux&perline=7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,npm,yarn,express,jest,golang,docker&perline=9" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,kafka,rabbitmq,jenkins,githubactions,aws&perline=9" />
   </a>
 </p>
 <!--
